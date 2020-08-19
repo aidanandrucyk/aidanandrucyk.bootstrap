@@ -459,37 +459,10 @@ section {
   border: 7px solid rgba(245, 245, 245, 0.199);
   background-color: rgba(245, 245, 245, 0.199);
   width: 95%;
- path {
+}
+  
+path {
   fill: #ffa514;
-}
-
-.services .iconbox-red i {
-  color: #ff4639;
-}
-
-.services .iconbox-red:hover .icon i {
-  color: #fff;
-}
-
-.services .iconbox-red:hover .icon path {
-  fill: #ff4639;
-}
-
-.services .iconbox-lime i {
-  color: #ace94a;
-}
-
-.services .iconbox-lime:hover .icon i {
-  color: #fff;
-}
-
-.services .iconbox-lime:hover .icon path {
-  fill: #ace94a;
-}
-
-.services .company-title{
-  margin-top: .5rem;
-e-in-out;
 }
 
 .contact .info h4 {
